@@ -7,7 +7,7 @@ public class Movie {
     private int ano;
 
 
-    // CONTRUTOR DO MEU todo
+    // CONSTRUTOR DO MEU todo
     public Movie(int id, String titulo, String genero, int ano) {
         this.id = id;
         this.titulo = titulo;
